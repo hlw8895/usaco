@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"chrono": "cpp",
+			"complex": "cpp",
+			"cmath": "cpp",
+			"random": "cpp",
+			"future": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"ostream": "cpp",
+			"streambuf": "cpp",
+			"regex": "cpp",
+			"tuple": "cpp",
+			"numeric": "cpp",
+			"functional": "cpp",
+			"iosfwd": "cpp",
+			"bitset": "cpp",
+			"thread": "cpp",
+			"valarray": "cpp",
+			"array": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
