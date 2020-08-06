@@ -42,4 +42,5 @@ int main()
     else
         fout << "STAY\n";
     return 0;
+    //test
 }
